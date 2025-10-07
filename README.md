@@ -19,7 +19,9 @@ I'm currently pursuing **B.E in Computer Science and Engineering**.
 
 # 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sinchana-DR&show_icons=true&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sinchana-DR&theme=radical&hide_border=false)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana-DR&layout=compact&theme=radical)
 
 ---
