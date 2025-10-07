@@ -4,7 +4,7 @@ I'm currently pursuing **B.E in Computer Science and Engineering**.
 ---
 
 # 🌐 Socials
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/sinchana-DR/) LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinchan/)
 
 ---
 
